@@ -45,11 +45,5 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 ---
 
-### 📈 GitHub Stats
-
-![Richie Paul Aquino](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
-
----
-
 ⭐ _Thanks for visiting my profile!_  
 Let's build something amazing together 🚀
