@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 - 🎓 Currently studying Information Technology
 - 💻 Passionate about full-stack web & mobile development
-- 📱 Interested in Flutter, React, Next.js, and Firebase
 - 🧠 Constantly learning new technologies and frameworks
 - 🎯 Goal: Build innovative apps and contribute to open source
 
@@ -17,21 +16,24 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-000?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Tools & Platforms:**  
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -39,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/richie-paul-aquiño-2bb196265" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -55,8 +57,6 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&theme=tokyonight" alt="GitHub Streak" height="160" />
 </div>
 
 ---
