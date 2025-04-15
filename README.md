@@ -45,5 +45,20 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paullooll&theme=gruvbox&row=1&column=7)](https://github.com/yourusername)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&theme=tokyonight" alt="GitHub Streak" height="160" />
+</div>
+
+---
+
 ⭐ _Thanks for visiting my profile!_  
 Let's build something amazing together 🚀
