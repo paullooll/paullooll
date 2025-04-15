@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Richie Paul Aquino](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ---
 
