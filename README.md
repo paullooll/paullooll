@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 ## 🚀 About Me
 
-- 🎓 Currently studying Information Technology
-- 💻 Passionate about full-stack web & mobile development
-- 🧠 Constantly learning new technologies and frameworks
-- 🎯 Goal: Build innovative apps and contribute to open source
+- 🎓 Currently studying Information Technology  
+- 💻 Passionate about full-stack web & mobile development  
+- 🧠 Constantly learning new technologies and frameworks  
+- 🎯 Goal: Build innovative apps and contribute to open source  
 
 ---
 
@@ -47,17 +47,26 @@ Welcome to my GitHub profile! I'm a passionate IT student and developer focused 
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paullooll&theme=gruvbox&row=1&column=7)](https://github.com/paullooll)
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Notable Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
-</div>
+-  [**ChorDefine**](https://github.com/ronmagpantay1/chordefine) – A Mobile Application for Guitar Chord Practice and Training Using Computer Vision and Audio Recognition 
+-  [**Face Recognition Attendance Scanner**](https://github.com/paullooll/FaceRecognitionAttendanceSystem) – A facial recognition-based attendance system for schools or organizations.
+-  [**Chatbot Application**](https://github.com/paullooll/cc206_chatbot_application) – A chatbot application built in Flutter that simulates conversations with users.
+-  [**Hyunwel Blackmarket**](https://github.com/paullooll/cc206_chatbot_application) – A secure e-commerce app built with Flutter and Firebase, providing authentication and real-time features.
 
 ---
 
