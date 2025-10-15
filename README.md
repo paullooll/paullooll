@@ -73,7 +73,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-⭐ *Thanks for visiting my profile!*
-💡 *Let’s collaborate and build something amazing together!* 🚀
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paullooll&theme=tokyo-night&hide_border=true&area=true)
 
 ---
