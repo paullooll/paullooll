@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="160" alt="GitHub Stats (All Time)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats" />
 </div>
 
 ---
