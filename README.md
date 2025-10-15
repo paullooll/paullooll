@@ -42,77 +42,7 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats" />
 </div>
-
----
-
-## 🔥 Contribution Visuals (Animated + Heatmap)
-
-I added two visual, dynamic representations of activity to this README:
-
-### 1) Animated Contribution Snake (fun, eye-catching)
-
-This creates an animated GIF that "snakes" through your contribution grid — a playful way to showcase momentum.
-
-**How to enable it (recommended):**
-
-1. Add the `Platane/snk` GitHub Action (or an equivalent) to your repository to generate `assets/contrib-snake.gif` on every push.
-2. Include the generated GIF in your README like this:
-
-```markdown
-![Contribution Snake](assets/contrib-snake.gif)
-```
-
-**Example workflow (`.github/workflows/snake.yml`):**
-
-```yaml
-name: Generate contribution snake
-on:
-  push:
-    branches: [ main ]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate contribution snake
-        uses: platane/snk@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          width: 860
-          height: 200
-          output: assets/contrib-snake.gif
-      - name: Commit generated GIF
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add assets/contrib-snake.gif || true
-          git commit -m "chore: update contribution snake" || true
-          git push || true
-```
-
-> Note: `platane/snk` is a well-known action for this purpose; if you prefer another action/tool you can swap it in.
-
----
-
-### 2) Activity Heatmap + Animated Activity Graph
-
-These show recent contributions and an activity timeline.
-
-**Heatmap (static SVG)** — quick and reliable:
-
-```markdown
-![Contribution Heatmap](https://ghchart.rshah.org/paullooll)
-```
-
-**Animated activity graph (area + activity)** — uses the `activity-graph` service (commonly used):
-
-```markdown
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=paullooll&area=true&hide_border=true&theme=gruvbox)
-```
-
-> If the hosted `activity-graph` or `ghchart` service is unavailable in the future, you can self-host the generated SVGs/assets or use alternative services/APIs.
 
 ---
 
@@ -147,11 +77,3 @@ These show recent contributions and an activity timeline.
 💡 *Let’s collaborate and build something amazing together!* 🚀
 
 ---
-
-## Notes & tips
-
-* Replace every occurrence of `paullooll` in the image URLs with your actual GitHub username if different.
-* If you want me to:
-  • generate the exact GitHub Action workflow tuned to your repo structure, or
-  • switch the visuals to a minimal, static-only setup (no Actions),
-  tell me which option and I’ll update the README accordingly.
