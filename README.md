@@ -46,14 +46,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paullooll&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🧩 Featured Projects
 
 * 🎸 [**ChorDefine**](https://github.com/ronmagpantay1/chordefine) — A mobile application for **guitar chord practice** using computer vision and audio recognition.
