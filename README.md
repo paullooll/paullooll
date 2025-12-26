@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paullooll)
+![GitHub Streak](https://streak-stats.demolab.com?user=paullooll)
 
 ---
