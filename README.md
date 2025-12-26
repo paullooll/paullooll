@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/paullooll)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paullooll)
 
 ---
