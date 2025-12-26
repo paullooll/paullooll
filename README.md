@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/1a1b27/paullooll)
+![GitHub Contributions](https://ghchart.rshah.org/paullooll)
 
 ---
