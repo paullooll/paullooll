@@ -49,7 +49,8 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 ---
 
 ## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=github-dark)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paullooll)
+![GitHub Streak](https://streak-stats.demolab.com?user=paullooll&theme=github-dark)
 
 ---
