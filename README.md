@@ -38,23 +38,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paullooll&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="160" alt="GitHub Stats (All Time)" />
-</div>
-
----
-
-## 🧩 Featured Projects
-
-* 🎸 [**ChorDefine**](https://github.com/ronmagpantay1/chordefine) — A mobile application for **guitar chord practice** using computer vision and audio recognition.
-* 🧠 [**Face Recognition Attendance Scanner**](https://github.com/paullooll/FaceRecognitionAttendanceSystem) — A facial recognition-based attendance system for schools or organizations.
-* 💬 [**Chatbot Application**](https://github.com/paullooll/cc206_chatbot_application) — A Flutter chatbot app that simulates real-time conversations.
-* 🛒 [**Hyunwel Blackmarket**](https://github.com/paullooll/cc206_chatbot_application) — A secure e-commerce app built with Flutter and Firebase, featuring authentication and real-time updates.
-
----
-
 ## 🔗 Let's Connect
 
 <p align="left">
@@ -65,6 +48,6 @@ Welcome to my GitHub profile! I’m an enthusiastic **Information Technology stu
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=paullooll&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Contributions](https://ghchart.rshah.org/1a1b27/paullooll)
 
 ---
