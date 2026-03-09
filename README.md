@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Richie Paul Aquiño
-===========================================================================================================================================
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Richie Paul Aquiño
 
-Web Developer
--------------
+### 👨‍💻 Full-Stack Web Developer
+*Learning, Building, and Improving every day.*
 
-Full-Stack Developer in Training | Learning, Building, Improving
+---
 
-* 🌍  I'm based in Iloilo, Philippines
-* ✉️  You can contact me at [richiepaul.aquino@gmail.com](mailto:richiepaul.aquino@gmail.com)
-* 🧠  I'm currently learning Full-Stack Web Applications using Next.js and NestJS
-* 👥  I'm looking to collaborate on Open Source Web Applications and Full-Stack Projects
-* 💬  Ask me about I debug faster with coffee ☕
+- 🌍 I'm based in **Iloilo, Philippines**
+- ✉️ You can easily reach me at **[richiepaul.aquino@gmail.com](mailto:richiepaul.aquino@gmail.com)**
+- 🧠 Currently mastering **Next.js** and **NestJS** for Full-Stack Web Applications
+- 👥 Open to collaborating on **Open Source Web Applications** and **Full-Stack Projects**
+- ☕ *Fun fact: I debug much faster with coffee!*
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
@@ -40,7 +41,9 @@ Full-Stack Developer in Training | Learning, Building, Improving
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
 </p>
 
-### Socials
+---
+
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.github.com/paullooll" target="_blank" rel="noreferrer">
@@ -66,7 +69,9 @@ Full-Stack Developer in Training | Learning, Building, Improving
   </a>
 </p>
 
-### GitHub Analytics
+---
+
+### 📈 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paullooll&show_icons=true&bg_color=0f172a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />&nbsp;&nbsp;<a href="http://www.github.com/paullooll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="165" alt="GitHub Streak" /></a>
