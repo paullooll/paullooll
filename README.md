@@ -69,8 +69,7 @@ Full-Stack Developer in Training | Learning, Building, Improving
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paullooll&show_icons=true&bg_color=0f172a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paullooll&layout=compact&bg_color=0f172a&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paullooll&show_icons=true&bg_color=0f172a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />&nbsp;&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paullooll&layout=compact&bg_color=0f172a&title_color=ffffff&text_color=ffffff&hide_border=true" height="195" alt="Top Languages" />
 </p>
 <p align="left">
   <a href="http://www.github.com/paullooll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paullooll&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
